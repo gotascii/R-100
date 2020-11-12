@@ -1,0 +1,3 @@
+[submodule "lib/RAMP"]
+	path = lib/RAMP
+	url = https://github.com/siteswapjuggler/RAMP.git
